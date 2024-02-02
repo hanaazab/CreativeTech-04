@@ -4,3 +4,5 @@ I am hoping to capture/analyze the current messaging of music and by proxy the c
 
 # Diagram 
 ![API Chain Diagram](https://github.com/hanaazab/CreativeTech-04/blob/main/API%20Chain.png)
+
+# Project 1 Week 2: Execution of API Chain 
