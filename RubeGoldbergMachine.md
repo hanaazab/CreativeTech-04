@@ -11,4 +11,8 @@ The few weeks of attemting to find a useable API to capture the global music cha
 
 # Project Week 3: Documentation 
 
-![Simple API Chain](
+![Simple API Chain](https://github.com/hanaazab/CreativeTech-04/blob/main/time-travel-madlib%20copy/Simple-APICHain.png)
+
+![Simple API Chain](https://github.com/hanaazab/CreativeTech-04/blob/main/time-travel-madlib%20copy/Simple-APIChain-2.png)
+
+![Simple API Chain](https://github.com/hanaazab/CreativeTech-04/blob/main/time-travel-madlib%20copy/Simple-APIChain-3.png)
