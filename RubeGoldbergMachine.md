@@ -6,3 +6,9 @@ I am hoping to capture/analyze the current messaging of music and by proxy the c
 ![API Chain Diagram](https://github.com/hanaazab/CreativeTech-04/blob/main/API%20Chain.png)
 
 # Project 1 Week 2: Execution of API Chain 
+
+The few weeks of attemting to find a useable API to capture the global music charts proved to be extremely difficult. After a weeks worth of attempts I chose a simpler API chain. Wherein I randomly generated a username, a joke, and a cat joke. 
+
+# Project Week 3: Documentation 
+
+![Simple API Chain](
