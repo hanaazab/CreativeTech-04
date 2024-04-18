@@ -1,11 +1,11 @@
 # Project 2 AI Chatbot
 
-**Week 1** Hello World! 
+# Week 1: Hello World! 
 Following a tutorial provided on replit: (https://replit.com/@hanaazab1/Basic-Discord-Bot)
 I created a basic discord bot that responds to $basicbot with Hello! 
 ![Hello World](https://github.com/hanaazab/CreativeTech-04/blob/main/HelloWorld_00.png)
 
-**Week 2 & 3** UI Experiments & Decision Tree Bot 
+# Week 2 & 3:  UI Experiments & Decision Tree Bot 
 I began by designing a "Time Bot" which encouraged rest above all else. I was quite busy at the time. Using this simple node structure:
 
 # Define the decision tree structure
@@ -23,8 +23,10 @@ root = Node("Do you have time?", options=[
 ![Time Bot](https://github.com/hanaazab/CreativeTech-04/blob/main/DecisionTree.png) 
 
 After, succeful implementation. I worked tpo engage a more robust user experience through varied buttons, modals, and node structure. 
+
 **Concept Overview**
     Bot Personality: Wise and stern; the bot should provide helpful advice, but in a firm and authoritative manner.
+   
     Main Functions: The bot could serve as a guide for productivity or wellness, offering advice, reminders, or decisions based on user inputs and interactions.
 
 
