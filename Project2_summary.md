@@ -26,6 +26,8 @@ After, succeful implementation. I worked tpo engage a more robust user experienc
 **Concept Overview**
     Bot Personality: Wise and stern; the bot should provide helpful advice, but in a firm and authoritative manner.
     Main Functions: The bot could serve as a guide for productivity or wellness, offering advice, reminders, or decisions based on user inputs and interactions.
+
+
 **Decision Tree Structure**
 Root Node: Start with a question that determines the user's immediate need.
 Question: "What can I assist you with today?"
@@ -57,6 +59,7 @@ Follow-up Nodes (e.g., for Time Management):
       Options:
       Plan day
       Manage tasks
+
 
 **UI Elements**
 class DecisionModal(Modal):
