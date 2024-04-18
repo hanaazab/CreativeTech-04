@@ -13,8 +13,8 @@ Meditation seemed to break when a handheld vibration was introduced.
 ![Mind Monitor](https://github.com/hanaazab/CreativeTech-04/blob/main/MindMonitor_00.jpeg)
 
 This led me to focus on wearable haptic interaction addition to the Muse headband, which I then designed and prototyped, following extensive research on possible tech integrations. 
-![CORE Patent]((https://github.com/hanaazab/CreativeTech-04/blob/main/Project%204%20_%20Personal%20Practice/CORE_Patent.png))
-![CORE Beta]((https://github.com/hanaazab/CreativeTech-04/blob/main/Project%204%20_%20Personal%20Practice/CORE_Patent.png)](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%204%20_%20Personal%20Practice/Core_Beta_Spread.jpg))
+![CORE Patent](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%204%20_%20Personal%20Practice/CORE_Patent.png)
+![CORE Beta](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%204%20_%20Personal%20Practice/Core_Beta_Spread.jpg)
 
 Once I prototyped the Look & Feel, I realized I needed to further develop the role. Which led me to prototyping an app to pair with the CORE prototype for initial deployments. 
 ![CORE Role-Prototype](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%204%20_%20Personal%20Practice/CORE_Role_Prototype.png)
