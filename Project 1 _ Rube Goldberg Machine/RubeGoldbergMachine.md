@@ -9,7 +9,7 @@ I am hoping to capture/analyze the current messaging of music and by proxy the c
 
 Initial attempts to use the RAPID API Key for Billboard failed me; Billboard data can only be used through web scraping. Due to this, I changed my first API request to Last.fm to get top tracks charting globally. This offered me a random assortment of titles, artist names, which could then be parsed through Genius Lyrics. 
 
-![Cultural Litmus](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%201%20_%20Rube%20Goldberg%20Machine/API%20Chain.png)
+![Cultural Litmus](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%201%20_%20Rube%20Goldberg%20Machine/CulturalLitmus_LastFM_Genius.png)
 
 Genius would not provide the lyrics directly, only offering a URL due to copyright restrictions. For the next week I had a decision ahead of me, I could either implement a manual input for users to copy lyrics generated from Genius and recieve a sentiment analysis from Perspective API, or alter the chain entirely. 
 
