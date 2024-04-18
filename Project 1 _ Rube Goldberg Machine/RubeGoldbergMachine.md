@@ -14,4 +14,11 @@ Initial attempts to use the RAPID API Key for Billboard failed me; Billboard dat
 Genius would not provide the lyrics directly, only offering a URL due to copyright restrictions. For the next week I had a decision ahead of me, I could either implement a manual input for users to copy lyrics generated from Genius and recieve a sentiment analysis from Perspective API, or alter the chain entirely. 
 
 # Project Week 3: Documentation 
+Initially I had issues with Google Console, deciding whether to install the google-auth library or use the Perspective API key directly, due to the negligence of the API key, I recieved errors/failure to analyze lyrics. However, I quickly changed it and was able to recieve a toxixity rating for the tracks generated. 
+![Cultural Litmus_Failed](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%201%20_%20Rube%20Goldberg%20Machine/CulturalLitmus_Perspective_Failed.png)
+
+![Cultural Litmus Toxicity 00](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%201%20_%20Rube%20Goldberg%20Machine/CulturalLitmus_Perspective_Toxicity.png)
+![Cultural Litmus Toxicity 01](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%201%20_%20Rube%20Goldberg%20Machine/CulturalLitmus_Perspective_Toxicity_00.png)
+![Cultural Litmus Toxicity 02](https://github.com/hanaazab/CreativeTech-04/blob/main/Project%201%20_%20Rube%20Goldberg%20Machine/CulturalLitmus_Perspective_Toxicity_01.png)
+
 
